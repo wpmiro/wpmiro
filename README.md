@@ -1,14 +1,29 @@
 <div align="center">
-<h2>👋 Hi, I’m Serhii</h2>
 
-I`m a WordPress Developer from Ukraine. Always hungry to keep learning.
+  <h2>👋 Hi, I’m Serhii</h2>
 
-<h3>❤️ My Skills</h3>
+  <p>
+    I'm a Web & Mobile Developer from Ukraine. <br>
+    Building seamless experiences with <b>React</b>, <b>React Native</b>, and <b>WordPress</b>. <br>
+    <i>Always hungry to keep learning.</i>
+  </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,d3,docker,figma,gatsby,github,gulp,graphql,linux,nodejs,nextjs,php,phpstorm,pnpm,pug,react,sass,svg,ts,vscode,vite,vercel,wordpress&theme=light)](https://skillicons.dev)
+  <br>
 
-<h3>❤️ My Stats</h3>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykulyncom&show_icons=true&bg_color=00000000)
+  <h3>🚀 My Skills</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,bash,d3,bun,docker,figma,gatsby,github,gulp,graphql,linux,nodejs,nextjs,php,phpstorm,pnpm,pug,react,sass,svg,ts,vscode,vite,vercel,wordpress,python,django&theme=light&perline=12" alt="My Skills" />
+    </a>
+  </p>
+
+  <br>
+
+  <h3>📊 My GitHub Stats</h3>
+  <p>
+    <a href="https://github.com/mirotesh">
+      <img src="https://github-readme-stats.vercel.app/api?username=mirotesh&show_icons=true&bg_color=00000000&hide_border=true" alt="Serhii's GitHub stats" />
+    </a>
+  </p>
 
 </div>
